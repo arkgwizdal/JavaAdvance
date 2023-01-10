@@ -4,14 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8f09d37c-4157-47a9-abe6-23881b316c9b" name="Changes" comment="init">
-      <change afterPath="$PROJECT_DIR$/src/main/java/operationsIO/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/operationsIO/FileUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/operationsIO/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/input" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/output" afterDir="false" />
+    <list default="true" id="8f09d37c-4157-47a9-abe6-23881b316c9b" name="Changes" comment="Commit day two begining">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/day0901/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/operationsIO/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/operationsIO/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/output" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/output" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +82,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673286855097</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Commit day two begining">
+      <created>1673370886418</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1673370886418</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -114,6 +117,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
-    <option name="LAST_COMMIT_MESSAGE" value="init" />
+    <MESSAGE value="Commit day two begining" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit day two begining" />
   </component>
 </project>
