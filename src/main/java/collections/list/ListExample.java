@@ -1,4 +1,4 @@
-package collections;
+package collections.list;
 
 import java.util.ArrayList;
 import java.util.LinkedList;
@@ -62,4 +62,6 @@ public class ListExample {
         linkedList.removeLast();
 
     }
+
+
 }
