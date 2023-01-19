@@ -58,8 +58,13 @@ public class ListExample {
         linkedList.addLast(s2);;
         System.out.println("Pierwszy : " +linkedList.getFirst());
         System.out.println("Ostatni : " +linkedList.getLast());
+        System.out.println(linkedList);
         linkedList.removeFirst();
         linkedList.removeLast();
+        System.out.println(linkedList);
+
+
+
 
     }
 

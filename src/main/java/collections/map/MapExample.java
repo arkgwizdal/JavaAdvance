@@ -20,7 +20,6 @@ public class MapExample {
 
 
         System.out.println(klasa);
-
         System.out.println("klucze : " + klasa.keySet());
         System.out.println("wartości : "+ klasa.values());
 

@@ -10,6 +10,7 @@ public class MapExcercises {
     public static void main(String[] args) {
 
         //Chcemy przechowywać wszystkie oceny danego ucznia
+        //jan
         String Jan = "Janek";
         int matematyka = 1;
         int biologia = 5 ;
